@@ -1,0 +1,9 @@
+#profile-name {
+  font-size: 32px;
+  text-transform: uppercase;
+}
+
+.card-info {
+  font-style: italic;
+  margin-bottom: 10px;
+}
